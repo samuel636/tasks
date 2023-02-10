@@ -39,6 +39,9 @@
         <li class="nav-item">
           <a class="nav-link" href="arrayexer.php">caa</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="crud/create.php">new</a>
+        </li>
         
       </ul>
       <form class="d-flex" role="search">
